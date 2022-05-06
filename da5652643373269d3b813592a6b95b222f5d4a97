@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c7693222_9e6c4406",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000055
+      },
+      "writtenOn": "2022-05-06T10:01:51Z",
+      "side": 1,
+      "message": "Fixes PIN slow appearing issue when using the Google modules.",
+      "revId": "da5652643373269d3b813592a6b95b222f5d4a97",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
